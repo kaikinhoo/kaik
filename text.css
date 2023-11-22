@@ -3,9 +3,9 @@
 /*Defione a fonde dos elementod de dentro do body*/
 body {
   font-family: 'Cedarville Cursive', cursive;
-  background: #85e7e9;
+  background: #85e7e981;
   width: 100%;
-  color: black;
+  color: rgba(0, 59, 252, 0.336);
 }
 
 /*estiliza tosos os títulos h1*/

@@ -3,7 +3,7 @@
 /*Defione a fonde dos elementod de dentro do body*/
 body {
   font-family: 'Cedarville Cursive', cursive;
-  background: #14B6BA;
+  background: #85e7e9;
   width: 100%;
   color: black;
 }
@@ -11,12 +11,12 @@ body {
 /*estiliza tosos os títulos h1*/
 h1 {
   text-align: center;
-  font-size: 14pt;
+  font-size: 19pt;
 }
 
 h2 {
   text-align: center;
-  font-size: 12pt;
+  font-size: 19pt;
 }
 
 /*Justificar textos*/
